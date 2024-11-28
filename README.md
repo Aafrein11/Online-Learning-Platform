@@ -27,6 +27,7 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Students can add courses.
 
      ![Screenshot 2024-05-15 212149](https://github.com/Aafrein11/Online-Learning-Platform/blob/19544338ebba4fafe96fc35db6e0692479f37b36/sreenshots/Screenshot%202024-11-28%20110546.png)
+      ![Screenshot 2024-05-15 212149](https://github.com/Aafrein11/Online-Learning-Platform/blob/8e516c64bf1e142e24f82194c7d5a4390044de4b/sreenshots/Screenshot%202024-11-28%20110648.png)
 
 
 #### 3. *Dashboard:*
