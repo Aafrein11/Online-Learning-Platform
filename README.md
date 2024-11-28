@@ -18,15 +18,15 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Student Login
    - OTP verification
 
-     ![Screenshot 2024-05-14 211251]()
+     ![Screenshot 2024-05-14 211251](https://github.com/Aafrein11/Online-Learning-Platform/blob/19544338ebba4fafe96fc35db6e0692479f37b36/sreenshots/Screenshot%202024-11-28%20110546.png)
 
 ![Screenshot 2024-05-14 211154]()
 
 #### 2. *Application Approval:*
-   - Students and teachers can submit applications for approval.
-   - Admin validates and approves applications.
+   - Students can add lectures.
+   - Students can add courses.
 
-     ![Screenshot 2024-05-15 212149](https://github.com/Pika003/e-Learning-Platform/assets/104189733/6e8afdba-a8a5-47e3-977c-f5292e136c3f)
+     ![Screenshot 2024-05-15 212149](https://github.com/Aafrein11/Online-Learning-Platform/blob/19544338ebba4fafe96fc35db6e0692479f37b36/sreenshots/Screenshot%202024-11-28%20110546.png)
 
 
 #### 3. *Dashboard:*
