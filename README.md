@@ -8,7 +8,7 @@ Online Learning Platform using MERN Stack
 Develop a comprehensive online learning platform with three user types (Student, Teacher, Admin), featuring course creation, approval process, and live video conferencing.
 
 ## *BACKEND for the PROJECT
-   - Backend is developed by [Parag](https://github.com/Aafrein11).
+   - Backend is developed by [Aafrein](https://github.com/Aafrein11).
 
 ## Features
 ![Screenshot 2024-05-14 212028](https://github.com/Aafrein11/Online-Learning-Platform/blob/0dea259acbcf30abc0f4c60e46d3a5b7c0f69926/sreenshots/WhatsApp%20Image%202024-11-28%20at%2011.10.05%20AM.jpeg)
