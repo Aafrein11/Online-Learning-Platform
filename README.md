@@ -18,7 +18,7 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Student Login
    - OTP verification
 
-     ![Screenshot 2024-05-14 211251](https://github.com/Aafrein11/Online-Learning-Platform/blob/19544338ebba4fafe96fc35db6e0692479f37b36/sreenshots/Screenshot%202024-11-28%20110546.png)
+     ![Screenshot 2024-05-14 211251](https://github.com/Aafrein11/Online-Learning-Platform/blob/a4ec56f32a9011063fb60b5e70dfada59a97ce6e/sreenshots/Screenshot%202024-11-28%20110253.png)
 
 ![Screenshot 2024-05-14 211154](https://github.com/Aafrein11/Online-Learning-Platform/blob/6db0383eef8a76ff22677b5dd3fe6a7400ede2fc/sreenshots/Screenshot%202024-11-28%20110337.png)
 
