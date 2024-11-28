@@ -36,7 +36,7 @@ Develop a comprehensive online learning platform with three user types (Student,
 
      
 ![Screenshot 2024-05-14 211938](https://github.com/Aafrein11/Online-Learning-Platform/blob/1c98e09448b3823cb0248ca3e1bd0cf3417f3630/sreenshots/Screenshot%202024-11-28%20110623.png)
-![Screenshot 2024-05-14 211854]()
+![Screenshot 2024-05-14 211854](https://github.com/Aafrein11/Online-Learning-Platform/blob/ae1f6d9275c20d7390a31bc5d2a13142b3b9a170/sreenshots/Screenshot%202024-11-28%20110145.png)
 #### 4. *Course Purchase:*
 
    - Students can browse and buy courses on the platform.
