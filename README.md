@@ -41,7 +41,9 @@ Develop a comprehensive online learning platform with three user types (Student,
 
    - Students can browse and buy courses on the platform.
      
-![Screenshot 2024-05-14 211813](https://github.com/Pika003/e-Learning-Platform/assets/104189733/1578ca04-b85d-4c7b-8875-12f6756f2621)
+![Screenshot 2024-05-14 211813]()
+![Screenshot 2024-05-14 211813]()
+
 
 #### 5. *Live Video Conferencing:*
    - Integrated video conferencing tool (similar to Google Meet) for real-time teacher-student interaction.
